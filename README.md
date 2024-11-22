@@ -1,1 +1,2 @@
 # Drowsiness-Detection-System
+A Drowsiness Detection System is a technological solution designed to monitor the alertness and attention level of a driver, to detect signs of fatigue or drowsiness that could lead to unsafe behavior, especially in environments like road driving. The system is built with the goal of preventing accidents and enhancing safety by providing real-time alerts to the user when drowsiness is detected.
